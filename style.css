@@ -1,0 +1,9 @@
+body {
+  background: #0b1623;
+  color: #e0e6ed;
+  font-family: Arial;
+  padding: 20px;
+}
+h1 { color: #1e90ff; }
+.online { color: #00ff88; }
+.offline { color: #ff4d4d; }
